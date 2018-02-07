@@ -1,0 +1,183 @@
+/***** BASE STYLES ******/
+
+body {
+	font-family: 'Raleway', sans-serif;
+    
+    margin: 0 auto !important;
+    float: none !important;
+    padding: 25px 15px 5px;
+    
+
+}
+
+.full-width {
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    /**background-color: #f9d28d;**/
+    padding-bottom: 63px;
+}
+
+.half-width {
+  
+}
+
+.icons {
+    padding-top: 70px;
+    padding-left: 694px;
+    padding-bottom: 30px;
+    clear: both;
+}
+
+h2 {
+font-family: 'Nothing You Could Do' , serif; 
+font-size: 40px;
+text-align: center;
+
+}
+
+
+/******HEADER*****/
+
+
+header {
+    height: 800px;
+    background: url('../img/hero4.jpg');
+    background-size: cover;
+    background-color: #efefef;
+
+}
+
+.logo {
+    float: left;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+    padding-top: 30px;
+    padding-left: 50px;   
+}
+
+nav {
+    float: right; 
+    padding: 80px 80px 0 10px;
+
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    color: #828282;
+    padding-left: 40px; 
+    padding-top: 10px;
+}
+
+
+
+
+/****ABOUT****/
+
+#about {
+    clear: both;
+    padding-right: 95px;
+    background-color: #f9d28d;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+#about h2 {
+
+padding-left: 64px;
+}
+
+.about-me {
+padding-right: 162px;
+padding-left: 215px;
+text-align: center;
+}
+
+.about-me-image {
+    padding-top: 35px;
+    padding-left: 269px;
+}
+
+full-wight .background {
+    background-color: #f9d28d;
+}
+
+/****PROJECTS****/
+
+#projects h2{
+font-family: 'Nothing You Could Do' , serif; 
+font-size: 40px;
+text-align: center;
+padding-bottom: 37px;
+
+}
+
+.row {
+    display: -webkit-box;
+
+}
+
+.project-image {
+    padding-left: 100px;
+    padding-bottom: 74px;
+   
+}
+
+.project-description {
+   
+    text-align: center;
+    width: 497px;
+    padding-top: 73px;
+    padding-left: 79px;
+
+}
+
+
+ 
+/****CONTACT***/
+
+
+#contact {
+    background-color: #f9d28d;
+    text-align: center;
+    padding-top: 21px;
+}
+    
+
+#contact-details {
+
+    font-family: 'Raleway', sans-serif ;
+    font-size: 25px ;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+
+/****FOOTER***/
+
+
+footer {
+    background-color: #f9d28d;
+}
+
+.instagram {
+    padding-top: 28px;
+    padding-left: 693px;
+    padding-bottom: 100px;
+}
+
+
+ 
+
+
